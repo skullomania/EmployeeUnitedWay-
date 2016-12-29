@@ -1,3 +1,2 @@
 # EmployeeUnitedWay-
-I created this as an easy way for fellow employees in my organization to be able to donate to United Way. The front end utilizes asp.net
-webforms while the backend uses basic asp.net mvc crud functionality.
+I created this as an easy way for fellow employees in my organization to be able to donate to United Way.  Employees can log in to donate to united way choose a donation amount. Depending on their amount, they can receive a free complementary gift for their donation. This app makes good use of bootstrap, custom javascript, jQuery and css to provide a clean, seemless user interface and customized error handling. 
