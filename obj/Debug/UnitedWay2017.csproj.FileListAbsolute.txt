@@ -1,0 +1,5 @@
+\\kdna-cifs\users\20002143\My Documents\Visual Studio 2012\Projects\UnitedWay2017\UnitedWay2017\bin\UnitedWay2017.dll
+\\kdna-cifs\users\20002143\My Documents\Visual Studio 2012\Projects\UnitedWay2017\UnitedWay2017\bin\UnitedWay2017.pdb
+\\kdna-cifs\users\20002143\My Documents\Visual Studio 2012\Projects\UnitedWay2017\UnitedWay2017\obj\Debug\UnitedWay2017.csprojResolveAssemblyReference.cache
+\\kdna-cifs\users\20002143\My Documents\Visual Studio 2012\Projects\UnitedWay2017\UnitedWay2017\obj\Debug\UnitedWay2017.dll
+\\kdna-cifs\users\20002143\My Documents\Visual Studio 2012\Projects\UnitedWay2017\UnitedWay2017\obj\Debug\UnitedWay2017.pdb
